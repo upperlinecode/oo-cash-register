@@ -4,7 +4,7 @@ Amazon needs a new payment app. You're a Director of Engineering at Amazon, and 
 
 
 ### Instructions
-Follow along with the specs in `spec/amazon_transaction_spec.rb`. Remember to run your specs in the terminal by entering `learn` from the main directory of this lab.
+Follow along with the specs in `spec/amazon_transaction_spec.rb`. Remember to run your specs in the terminal by entering `rspec` from the main directory of this lab.
 
 Write your code in the `amazon_transaction.rb` file.
 
